@@ -5,6 +5,7 @@
 - [ ] User Authentication
 - [ ] Send Emails
 - [ ] Macro Calculator
+  - [ ] Use [this](https://www.youtube.com/watch?v=xW1-NkOKoas&t=6s) video as a reference.
 - [ ] Meal Planner
 - [ ] Food nutrition database
 
