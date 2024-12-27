@@ -4,16 +4,16 @@
 
 - [ ] User Authentication
 - [ ] Send Emails
-- [ ] Macro Calculator
+- [x] Macro Calculator
   - [ ] Use [this](https://www.youtube.com/watch?v=xW1-NkOKoas&t=6s) video as a reference.
 - [ ] Meal Planner
 - [ ] Food nutrition database
 
 ## Technologies
 
-- [ ] Next.js (Frontend)
-- [ ] TailwindCSS
-- [ ] fly.io (hosting)
+- [x] Next.js (Frontend)
+- [x] TailwindCSS
+- [ ] home server (hosting)
 - [ ] Clerk (User Management)
 - [ ] Tigris (Database)
 - [ ] MailChimp (Emails)
